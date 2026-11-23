@@ -11,37 +11,37 @@ permalink: /cv/
 ---
 
 ## Objective
-One or two sentences: what you are studying, and what you are looking for next.
+I'm studying biomedical engineering and hope to learn more about the pharma industry. I aiming to gain more industry experience in drug developement and delivery.
 
 ---
 
 ## Education
 - **Cornell University**  
-  *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  Graduation: Month, Year
+  *Bachelor of Science in Biomedical Engineering*  
+  Graduation: May, 2029
 
 ---
 
 ## Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
-- **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Software:** Adobe Photoshop 
+- **Programming:** C++  
+- **Tools:** Molecular Biology Laboratory Techniques  
 
 ---
 
 ## Projects
-- **Project title**:  
-  *One line about what it was*  
-  - What you did  
-  - What came of it  
+- **Pedestrian Bridge**:  
+  *A bridge design project applying principals of statics and mechanics. *  
+  - Considered different bridge design elements to reach required dimension, safety, and deflection criteria while minimizing material cost.  
+  - Gained a deeper understanding of the design process to solve an open-ended engineering problem.   
 
 ---
 
 ## Work Experience
-- **Company name, Intern**  
-  Month, Year to Month, Year  
-  - What you worked on  
-  - What came of it  
+- **The Feschotte Lab, Undergraduate Researcher**  
+  August, 2026 to Present
+  - I'm an undergraduate researcher in the Feschotte Lab at Cornell University. My work in genetics focuses on Transposable Elements, a form of mobile DNA, and their role in Drosophila reproduction. I've gained a deeper understanding of molecular biology techniques. 
+
 
 ---
 
@@ -51,8 +51,8 @@ One or two sentences: what you are studying, and what you are looking for next.
 ---
 
 ## Extracurricular Activities
-- Member of a club or project team  
-
+-  **The Steminest Movement, Enrichment Committee** 
+- I plan speaker events to empower women in stem and educate Cornell students about opportunities within the community to develope professional and technical skills. 
 ---
 
 ## References

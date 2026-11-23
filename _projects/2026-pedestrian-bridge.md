@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: Project
 title: Bridge Design Project 
 description: 3D design and analysis of a Warren Truss Pedestrian Bridge
 technologies:
