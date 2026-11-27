@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: CV
+title: cv
 permalink: /assets/Maeve_Dufton_Resume 20206-2027.pdf
 ---
 # Curriculum Vitae
