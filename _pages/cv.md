@@ -1,7 +1,7 @@
 ---
 layout: cv
-title: cv
-permalink: /assets/Maeve_Dufton_Resume 20206-2027.pdf
+title: CV
+permalink: /cv/
 ---
 # Curriculum Vitae
 
