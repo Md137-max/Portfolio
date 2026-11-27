@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 # Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "Maeve_Dufton_Resume 2026-2027.pdf" | /assets/Maeve_Dufton_Resume 2026-2027.pdf }}) in PDF format.
 
 
 ---
