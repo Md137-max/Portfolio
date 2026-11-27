@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 # Curriculum Vitae
 
-[Download my Resume]("Maeve_Dufton_Resume.pdf" | /assets/Maeve_Dufton_Resume.pdf) in PDF format.
+[Download my Resume](/assets/Maeve_Dufton_Resume.pdf) in PDF format.
 
 
 ---
